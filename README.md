@@ -1,6 +1,6 @@
 # test-repo-app
 ## Areesa Tayeh
 ### สมาชิกในกลุ่ม
-__1.  Areesa__
-__2.  Yasmi__
-__3.  Habibah__
+__  1.Areesa__
+__  2.Yasmi__
+__  3.Habibah__
